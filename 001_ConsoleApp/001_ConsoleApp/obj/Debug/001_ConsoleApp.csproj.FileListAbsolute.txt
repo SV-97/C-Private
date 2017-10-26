@@ -1,0 +1,7 @@
+D:\Git Repos\C# Private\001_ConsoleApp\001_ConsoleApp\obj\Debug\001_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Git Repos\C# Private\001_ConsoleApp\001_ConsoleApp\bin\Debug\001_ConsoleApp.exe.config
+D:\Git Repos\C# Private\001_ConsoleApp\001_ConsoleApp\bin\Debug\001_ConsoleApp.exe
+D:\Git Repos\C# Private\001_ConsoleApp\001_ConsoleApp\bin\Debug\001_ConsoleApp.pdb
+D:\Git Repos\C# Private\001_ConsoleApp\001_ConsoleApp\obj\Debug\001_ConsoleApp.exe
+D:\Git Repos\C# Private\001_ConsoleApp\001_ConsoleApp\obj\Debug\001_ConsoleApp.pdb
+D:\Git Repos\C# Private\001_ConsoleApp\001_ConsoleApp\obj\Debug\001_ConsoleApp.csprojResolveAssemblyReference.cache
