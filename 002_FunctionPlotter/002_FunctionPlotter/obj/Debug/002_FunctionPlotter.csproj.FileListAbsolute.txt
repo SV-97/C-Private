@@ -5,3 +5,10 @@ D:\Git Repos\C# Private\002_FunctionPlotter\002_FunctionPlotter\bin\Debug\002_Fu
 D:\Git Repos\C# Private\002_FunctionPlotter\002_FunctionPlotter\bin\Debug\002_FunctionPlotter.pdb
 D:\Git Repos\C# Private\002_FunctionPlotter\002_FunctionPlotter\obj\Debug\002_FunctionPlotter.exe
 D:\Git Repos\C# Private\002_FunctionPlotter\002_FunctionPlotter\obj\Debug\002_FunctionPlotter.pdb
+C:\Users\SV-97\Documents\Gits\C# Private\002_FunctionPlotter\002_FunctionPlotter\bin\Debug\002_FunctionPlotter.exe.config
+C:\Users\SV-97\Documents\Gits\C# Private\002_FunctionPlotter\002_FunctionPlotter\bin\Debug\002_FunctionPlotter.exe
+C:\Users\SV-97\Documents\Gits\C# Private\002_FunctionPlotter\002_FunctionPlotter\bin\Debug\002_FunctionPlotter.pdb
+C:\Users\SV-97\Documents\Gits\C# Private\002_FunctionPlotter\002_FunctionPlotter\obj\Debug\002_FunctionPlotter.csprojResolveAssemblyReference.cache
+C:\Users\SV-97\Documents\Gits\C# Private\002_FunctionPlotter\002_FunctionPlotter\obj\Debug\002_FunctionPlotter.csproj.CoreCompileInputs.cache
+C:\Users\SV-97\Documents\Gits\C# Private\002_FunctionPlotter\002_FunctionPlotter\obj\Debug\002_FunctionPlotter.exe
+C:\Users\SV-97\Documents\Gits\C# Private\002_FunctionPlotter\002_FunctionPlotter\obj\Debug\002_FunctionPlotter.pdb
