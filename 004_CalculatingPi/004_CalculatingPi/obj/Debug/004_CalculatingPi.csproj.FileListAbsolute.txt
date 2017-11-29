@@ -1,0 +1,7 @@
+D:\Git Repos\C# Private\004_CalculatingPi\004_CalculatingPi\bin\Debug\004_CalculatingPi.exe.config
+D:\Git Repos\C# Private\004_CalculatingPi\004_CalculatingPi\bin\Debug\004_CalculatingPi.exe
+D:\Git Repos\C# Private\004_CalculatingPi\004_CalculatingPi\bin\Debug\004_CalculatingPi.pdb
+D:\Git Repos\C# Private\004_CalculatingPi\004_CalculatingPi\obj\Debug\004_CalculatingPi.csprojResolveAssemblyReference.cache
+D:\Git Repos\C# Private\004_CalculatingPi\004_CalculatingPi\obj\Debug\004_CalculatingPi.csproj.CoreCompileInputs.cache
+D:\Git Repos\C# Private\004_CalculatingPi\004_CalculatingPi\obj\Debug\004_CalculatingPi.exe
+D:\Git Repos\C# Private\004_CalculatingPi\004_CalculatingPi\obj\Debug\004_CalculatingPi.pdb

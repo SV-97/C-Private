@@ -1,0 +1,9 @@
+D:\Git Repos\C# Private\007_MassCalculator\007_MassCalculator\bin\Release\007_MassCalculator.exe.config
+D:\Git Repos\C# Private\007_MassCalculator\007_MassCalculator\bin\Release\007_MassCalculator.exe
+D:\Git Repos\C# Private\007_MassCalculator\007_MassCalculator\bin\Release\007_MassCalculator.pdb
+D:\Git Repos\C# Private\007_MassCalculator\007_MassCalculator\obj\Release\_007_MassCalculator.Form1.resources
+D:\Git Repos\C# Private\007_MassCalculator\007_MassCalculator\obj\Release\_007_MassCalculator.Properties.Resources.resources
+D:\Git Repos\C# Private\007_MassCalculator\007_MassCalculator\obj\Release\007_MassCalculator.csproj.GenerateResource.Cache
+D:\Git Repos\C# Private\007_MassCalculator\007_MassCalculator\obj\Release\007_MassCalculator.csproj.CoreCompileInputs.cache
+D:\Git Repos\C# Private\007_MassCalculator\007_MassCalculator\obj\Release\007_MassCalculator.exe
+D:\Git Repos\C# Private\007_MassCalculator\007_MassCalculator\obj\Release\007_MassCalculator.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4A4A2664-E32C-4E2D-A33E-9A1F905B94A7}</ProjectGuid>
+    <ProjectGuid>{E8BB8800-BD7F-4BAB-81AE-2F67EA560BF4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_004_CalculatingPi</RootNamespace>
-    <AssemblyName>004_CalculatingPi</AssemblyName>
+    <RootNamespace>CalculatingPrimes</RootNamespace>
+    <AssemblyName>CalculatingPrimes</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

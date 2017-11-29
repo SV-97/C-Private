@@ -1,0 +1,10 @@
+D:\Git Repos\C# Private\006_MachineLearning\006_MachineLearning\bin\Debug\006_MachineLearning.exe.config
+D:\Git Repos\C# Private\006_MachineLearning\006_MachineLearning\bin\Debug\006_MachineLearning.exe
+D:\Git Repos\C# Private\006_MachineLearning\006_MachineLearning\bin\Debug\006_MachineLearning.pdb
+D:\Git Repos\C# Private\006_MachineLearning\006_MachineLearning\obj\Debug\006_MachineLearning.csprojResolveAssemblyReference.cache
+D:\Git Repos\C# Private\006_MachineLearning\006_MachineLearning\obj\Debug\_006_MachineLearning.Form1.resources
+D:\Git Repos\C# Private\006_MachineLearning\006_MachineLearning\obj\Debug\_006_MachineLearning.Properties.Resources.resources
+D:\Git Repos\C# Private\006_MachineLearning\006_MachineLearning\obj\Debug\006_MachineLearning.csproj.GenerateResource.Cache
+D:\Git Repos\C# Private\006_MachineLearning\006_MachineLearning\obj\Debug\006_MachineLearning.csproj.CoreCompileInputs.cache
+D:\Git Repos\C# Private\006_MachineLearning\006_MachineLearning\obj\Debug\006_MachineLearning.exe
+D:\Git Repos\C# Private\006_MachineLearning\006_MachineLearning\obj\Debug\006_MachineLearning.pdb
