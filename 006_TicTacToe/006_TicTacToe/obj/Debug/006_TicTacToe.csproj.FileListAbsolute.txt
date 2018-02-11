@@ -1,0 +1,10 @@
+C:\Users\SV-97\Documents\Gits\C# Private\006_TicTacToe\006_TicTacToe\bin\Debug\006_TicTacToe.exe.config
+C:\Users\SV-97\Documents\Gits\C# Private\006_TicTacToe\006_TicTacToe\bin\Debug\006_TicTacToe.exe
+C:\Users\SV-97\Documents\Gits\C# Private\006_TicTacToe\006_TicTacToe\bin\Debug\006_TicTacToe.pdb
+C:\Users\SV-97\Documents\Gits\C# Private\006_TicTacToe\006_TicTacToe\obj\Debug\006_TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\SV-97\Documents\Gits\C# Private\006_TicTacToe\006_TicTacToe\obj\Debug\_006_TicTacToe.Form1.resources
+C:\Users\SV-97\Documents\Gits\C# Private\006_TicTacToe\006_TicTacToe\obj\Debug\_006_TicTacToe.Properties.Resources.resources
+C:\Users\SV-97\Documents\Gits\C# Private\006_TicTacToe\006_TicTacToe\obj\Debug\006_TicTacToe.csproj.GenerateResource.Cache
+C:\Users\SV-97\Documents\Gits\C# Private\006_TicTacToe\006_TicTacToe\obj\Debug\006_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\SV-97\Documents\Gits\C# Private\006_TicTacToe\006_TicTacToe\obj\Debug\006_TicTacToe.exe
+C:\Users\SV-97\Documents\Gits\C# Private\006_TicTacToe\006_TicTacToe\obj\Debug\006_TicTacToe.pdb
