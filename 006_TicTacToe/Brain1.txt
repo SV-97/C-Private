@@ -1,0 +1,33 @@
+22 00 01 11 20 21 12 02  Winner: Nobody at 8
+01 12 21 00  Winner: Player 1 at 4
+00 10 22 01 02 21 20 12  Winner: Player 1 at 8
+01 10 21 12 02 11  Winner: AI at 6
+00 01 11 10  Winner: Player 1 at 4
+21 11 10 12 02 20 22 00  Winner: Nobody at 8
+01 02 10 20 21 12 00 11  Winner: AI at 8
+22 11 10 20 02 00  Winner: Player 1 at 6
+01 10 21 22 12 02 20 00  Winner: Player 1 at 8
+01 00 10 02 21 12 22 11  Winner: Player 1 at 8
+11 00 01 12 10 20 22 02  Winner: Player 1 at 8
+11 10 21 01 20 12  Winner: Player 1 at 6
+01 00 10 02 21 22  Winner: Player 1 at 6
+01 12 11 22  Winner: Player 1 at 4
+10 21 11 00  Winner: Player 1 at 4
+10 00 11 12 21 01 02 20  Winner: Nobody at 8
+00 10 11 01  Winner: Player 1 at 4
+01 10 11 20  Winner: Player 1 at 4
+01 00 21 12  Winner: Player 1 at 4
+01 21 11 12 20 10  Winner: Player 1 at 6
+20 10 11 00 12 22 21 01  Winner: Player 1 at 8
+21 11 10 12 20 02  Winner: Player 1 at 6
+00 10 21 20 11 12  Winner: Player 1 at 6
+21 02 00 01 22 20  Winner: Player 1 at 6
+21 12 01 20 10 11 22 00  Winner: Nobody at 8
+01 02 10 11 21 22 00 20  Winner: AI at 8
+21 22 00 12 02 20 10 11  Winner: Player 1 at 8
+00 11 01 21 20 02 22 12  Winner: Player 1 at 8
+11 02 10 01  Winner: Player 1 at 4
+11 12 21 20 10 22  Winner: Player 1 at 6
+02 22 12 11 21 20 01 00  Winner: AI at 8
+11 00 01 12 10 21 02 22  Winner: Player 1 at 8
+21 10 20 02  Winner: Player 1 at 4
